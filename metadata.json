@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Spec & Engineering Suite",
+  "description": "Full-cycle task management platform with acceptance criteria verification, interactive Kanban & list views, Flask REST API & MySQL explorer, and PyTest test runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
